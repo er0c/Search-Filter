@@ -1,0 +1,20 @@
+#search_instr {
+  margin-bottom: 5px;
+}
+
+#search_container {
+  padding: 10px;
+  margin-bottom: 10px;
+  background: rgb(255, 243, 251);
+}
+
+#results {
+  padding: 10px;
+  background: rgb(243, 123, 255);
+}
+
+.result {
+  padding: 5px;
+  margin-bottom: 10px;
+  background: rgb(243, 255, 251);
+}
